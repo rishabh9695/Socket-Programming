@@ -1,0 +1,11 @@
+Wed_Mar_15_19:51:02_2017 credit_2 2
+Wed_Mar_15_19:51:02_2017 Debit_2 0
+Wed_Mar_15_19:51:02_2017 credit_3 3
+Wed_Mar_15_19:51:02_2017 Debit_3 0
+Wed_Mar_15_19:51:02_2017 Debit_0 0
+Wed_Mar_15_19:51:02_2017 credit_0 0
+Wed_Mar_15_19:51:02_2017 credit_1000 1000
+Wed_Mar_15_19:51:02_2017 credit_02 1002
+Wed_Mar_15_19:51:02_2017 Debit_002 1000
+Wed_Mar_15_19:51:02_2017 credit_00235 1235
+Wed_Mar_15_20:29:34_2017 Credit_1230 2465
