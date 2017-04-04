@@ -1,0 +1,14 @@
+messi 10 A
+neymar 11 C
+suarez 9 P
+iniesta 8 A
+rakitic 4 C
+rafinha 12 C
+busquets 5 P
+roberto 20 C
+pique 3 C
+masche 14 C
+umtiti 23 C
+stegen 1 C
+arda 7 C
+denis 6 C
